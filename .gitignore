@@ -1,4 +1,4 @@
 data/
 .ipynb_checkpoints
 simulator-linux/
-runs/
+*.h5
