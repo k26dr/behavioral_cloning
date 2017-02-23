@@ -1,4 +1,5 @@
 data/
 .ipynb_checkpoints
 simulator-linux/
+beta_simulator_linux/
 *.h5
